@@ -5,14 +5,14 @@ violence are increasingly likely to be targeted because of their work.
 While research institutions have rules and guidelines for safeguarding
 sensitive information, these usually do not address the problem of
 keeping *individuals* safe from either targeted attacks like Climategate
-[@Natu2010] or the kinds of "drive-by" threats that everyone now faces
+[[Nature2010](b:Nature2010)] or the kinds of "drive-by" threats that everyone now faces
 regardless of their occupation.
 
 Hollywood depictions of everyday threats are as far from reality as
 their portrayals of scientists, but more realistic guidance for personal
-digital security is now freely available [@FLD; @EFJ2015; @EFF]. The ten
-quick tips in this paper are a starting point: while they apply to
-everyone, they were developed with researchers in mind. While
+digital security is now freely available [[FLD2020](b:FLD2020),[EFJ2015](b:EFJ2015),[EFF2020](b:EFF2020)].
+The ten quick tips in this paper are a starting point: while they
+apply to everyone, they were developed with researchers in mind. While
 researchers expect their work to be scrutinized by the academic
 community, they should not expect to endure harassment due to the
 visibility of their published works. These rules do not guarantee
@@ -31,15 +31,14 @@ practically non-existent: data breaches have minimal impact on
 companies' profitability and individuals are almost never fined, much
 less jailed.
 
-Much of what institutions force us to go through is
-[security theater](g:security-theater) intended to make us believe
-something is being done rather than to actually make us
-safer. Requiring people to take off their shoes at airports is one
-example; random searches of backpacks and bags at the entrance to the
-subway is another, since it's hard to imagine that a would-be attacker
-*wouldn't* just go to another entrance. (Bruce Schneier's blog
-[@SchnBlog] has many examples of security theater and the harm it
-does.)
+Much of what institutions force us to go through is [security
+theater](g:security-theater) intended to make us believe something is
+being done rather than to actually make us safer. Requiring people to
+take off their shoes at airports is one example; random searches of
+backpacks and bags at the entrance to the subway is another, since
+it's hard to imagine that a would-be attacker *wouldn't* just go to
+another entrance. ([[Schneier2020](b:Schneier2020)] has many examples
+of security theater and the harm it does.)
 
 Security theater is counter-productive because it encourages us to cut
 corners in ways that actually make us *less* safe. For example, forcing
@@ -73,9 +72,10 @@ should be more careful about what he puts into email while preparing
 and delivering his testimony.
 
 The corollary to situational awareness is to de-escalate when you can.
-Being on guard all the time is exhausting and quickly leads to
-[security fatigue](g:security-fatigue) [@Stan2016]. If you are too
-tired to follow good practices, knowing them does you no good.
+Being on guard all the time is exhausting and leads to
+[security fatigue](g:security-fatigue) [[Stanton2016](b:Stanton2016)].
+If you are too tired to follow good practices, knowing them does you
+no good.
 
 Two technologies that are useful, but only to a certain extent, are
 Virtual Private Networks and a specialized web browser called Tor. A
@@ -88,3 +88,7 @@ through a network of servers, making traffic much harder to track. Both
 reduce risk, but neither eliminates it if your device is compromised, if
 the VPN is subpoenaed, or if you log in to accounts over Tor (thereby
 revealing your identity to those sites).
+
+## Acknowledgments {: #acknowledgments}
+
+FIXME

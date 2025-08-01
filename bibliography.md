@@ -21,7 +21,7 @@
     2018,
     <https://doi.org/10.1016/j.maturitas.2018.04.008>.
 
-<span id="EFF">EFF</span>
+<span id="EFF2020">EFF2020</span>
 :   Electronic Frontier Foundation:
     "Surveillance Self-Defense: Tips, Tools and How-Tos for Safer Online Communications".
     <https://ssd.eff.org/>,
@@ -40,7 +40,7 @@
     8(3),
     2016.
 
-<span id="FLD">FLD</span>
+<span id="FLD2020">FLD2020</span>
 :   Front Line Defenders:
     "Digital Security Resources".
     <https://www.frontlinedefenders.org/en/digital-security-resources>,
@@ -65,7 +65,7 @@
     <https://www.schneier.com/blog/archives/2019/12/totok_is_an_emi.html>,
     viewed 2020-01-25.
 
-<span id="Schneier">Schneier</span>
+<span id="Schneier2020">Schneier2020</span>
 :   Bruce Schneier:
     *Schneier on Security*.
     <https://www.schneier.com/>,

@@ -2,26 +2,37 @@
 
 <html>
 <head>
-<title>Introduction</title>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Introduction</title>
 <link href="../static/favicon.ico" rel="icon" type="image/x-icon"/>
 <link href="../static/page.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 <nav>
-<div class="row">
-<div class="col-2 left">
 <a href="../">Home</a>
-</div>
-<div class="col-10 right">
-<a href="../license.html">License</a>
-	  ·
-	  <a href="../bibliography.html">Bibliography</a>
-	  ·
-	  <a href="../glossary.html">Glossary</a>
-</div>
-</div>
+      ·
+      <span class="dropdown">
+<a href="#">Lessons</a>
+<span class="dropdown-content">
+<a href="../01_intro/">Introduction</a>
+<a href="../02_meeting/">How to Run a Meeting</a>
+<a href="../03_gst/">Goals, Strategies, and Tactics</a>
+<a href="../04_power/">Power</a>
+<a href="../05_start/">Starting</a>
+<a href="../06_finish/">Finishing</a>
+</span>
+</span>
+      ·
+      <span class="dropdown">
+<a href="#">Extras</a>
+<span class="dropdown-content">
+<a href="../license/">License</a>
+<a href="../conduct/">Code of Conduct</a>
+<a href="../bibliography/">Bibliography</a>
+<a href="../glossary/">Glossary</a>
+</span>
+</span>
 </nav>
 <main>
 <h1>Introduction</h1>
@@ -30,13 +41,13 @@ violence are increasingly likely to be targeted because of their work.
 While research institutions have rules and guidelines for safeguarding
 sensitive information, these usually do not address the problem of
 keeping <em>individuals</em> safe from either targeted attacks like Climategate
-[@Natu2010] or the kinds of "drive-by" threats that everyone now faces
+[<a href="../bibliography/#Nature2010">Nature2010</a>] or the kinds of "drive-by" threats that everyone now faces
 regardless of their occupation.</p>
 <p>Hollywood depictions of everyday threats are as far from reality as
 their portrayals of scientists, but more realistic guidance for personal
-digital security is now freely available [@FLD; @EFJ2015; @EFF]. The ten
-quick tips in this paper are a starting point: while they apply to
-everyone, they were developed with researchers in mind. While
+digital security is now freely available [<a href="../bibliography/#FLD2020">FLD2020</a>,<a href="../bibliography/#EFJ2015">EFJ2015</a>,<a href="../bibliography/#EFF2020">EFF2020</a>].
+The ten quick tips in this paper are a starting point: while they
+apply to everyone, they were developed with researchers in mind. While
 researchers expect their work to be scrutinized by the academic
 community, they should not expect to endure harassment due to the
 visibility of their published works. These rules do not guarantee
@@ -52,15 +63,14 @@ rapidly-changing technology. Accountability for these breaches is
 practically non-existent: data breaches have minimal impact on
 companies' profitability and individuals are almost never fined, much
 less jailed.</p>
-<p>Much of what institutions force us to go through is
-<a href="../glossary.html#security-theater">security theater</a> intended to make us believe
-something is being done rather than to actually make us
-safer. Requiring people to take off their shoes at airports is one
-example; random searches of backpacks and bags at the entrance to the
-subway is another, since it's hard to imagine that a would-be attacker
-<em>wouldn't</em> just go to another entrance. (Bruce Schneier's blog
-[@SchnBlog] has many examples of security theater and the harm it
-does.)</p>
+<p>Much of what institutions force us to go through is <a href="../glossary/#security-theater">security
+theater</a> intended to make us believe something is
+being done rather than to actually make us safer. Requiring people to
+take off their shoes at airports is one example; random searches of
+backpacks and bags at the entrance to the subway is another, since
+it's hard to imagine that a would-be attacker <em>wouldn't</em> just go to
+another entrance. ([<a href="../bibliography/#Schneier2020">Schneier2020</a>] has many examples
+of security theater and the harm it does.)</p>
 <p>Security theater is counter-productive because it encourages us to cut
 corners in ways that actually make us <em>less</em> safe. For example, forcing
 people to change passwords every three months encourages people to
@@ -75,11 +85,11 @@ their date of birth, the three-digit verification code on the back of
 their credit card, and what was almost certainly their mother's maiden
 name.</p>
 <p>The moral of this story is that safety comes from good habits, not
-technology. <a href="../glossary.html#social-engineering">Social engineering</a> is far more
+technology. <a href="../glossary/#social-engineering">Social engineering</a> is far more
 common than hacking: in practice it is far easier to trick someone
 into giving you their password than to break into their devices
 digitally.</p>
-<p>The key practice is <a href="../glossary.html#situational-awareness">situational awareness</a>,
+<p>The key practice is <a href="../glossary/#situational-awareness">situational awareness</a>,
 which is a fancy way of saying, "Pay attention to what's happening and
 respond accordingly." If you start working on a high-profile subject
 that will likely attract controversy you should take more precautions
@@ -88,9 +98,10 @@ an expert witness increases the odds that they will be targeted, and
 should be more careful about what he puts into email while preparing
 and delivering his testimony.</p>
 <p>The corollary to situational awareness is to de-escalate when you can.
-Being on guard all the time is exhausting and quickly leads to
-<a href="../glossary.html#security-fatigue">security fatigue</a> [@Stan2016]. If you are too
-tired to follow good practices, knowing them does you no good.</p>
+Being on guard all the time is exhausting and leads to
+<a href="../glossary/#security-fatigue">security fatigue</a> [<a href="../bibliography/#Stanton2016">Stanton2016</a>].
+If you are too tired to follow good practices, knowing them does you
+no good.</p>
 <p>Two technologies that are useful, but only to a certain extent, are
 Virtual Private Networks and a specialized web browser called Tor. A
 Virtual Private Network (VPN) connects your device to a server, then has
@@ -102,11 +113,13 @@ through a network of servers, making traffic much harder to track. Both
 reduce risk, but neither eliminates it if your device is compromised, if
 the VPN is subpoenaed, or if you log in to accounts over Tor (thereby
 revealing your identity to those sites).</p>
+<h2 id="acknowledgments">Acknowledgments</h2>
+<p>FIXME</p>
 </main>
 <footer>
-<a href="../">The Safetynomicon</a>
-      copyright © 2024
-      <a href="../contributing.html#contributors">the authors</a>
+<a href="../">Online Safety for Researchers</a>
+      copyright © 2025
+      <a href="../01_intro/#acknowledgments">the authors</a>
 </footer>
 </body>
 </html>
