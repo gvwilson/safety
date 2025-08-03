@@ -16,17 +16,35 @@ FIXME
 
 ## Syllabus
 
+<div id="syllabus" markdown="1">
+
 1.  [Introduction](./01_intro/): what this training does and doesn't cover.
 2.  [Threat Models](./02_threats/)
 3.  [Authentication](./03_auth/)
 4.  [Hygiene](./04_hygiene/)
 5.  [Community](./05_community/)
 
+</div>
+
 ##  Appendices
+
+<div id="appendices" markdown="1">
 
 1.  [License](./LICENSE.md)
 1.  [Code of Conduct](./CODE_OF_CONDUCT.md)
 1.  [Bibliography](./bibliography.md)
 1.  [Glossary](./glossary.md)
+
+</div>
+
+<p class="center">
+  <em>
+    Start where you are
+    <br/>
+    Use what you have
+    <br/>
+    Help who you can
+  </em>
+</p>
 
 [repo]: https://github.com/gvwilson/safety
