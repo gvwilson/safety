@@ -45,7 +45,7 @@ corners in ways that actually make us *less* safe. For example, forcing
 people to change passwords every three months encourages people to
 choose memorable (and therefore easy-to-guess) passwords.
 
-# Digital Security is Rarely the Weakest Link
+## Digital Security is Rarely the Weakest Link
 
 The second rule is to remember that most attacks take place offline, and
 that the most effective ones are often the simplest. At an airport
