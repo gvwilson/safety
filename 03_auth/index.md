@@ -24,13 +24,17 @@ point of attack, but is still safer than choosing passwords yourself,
 since password managers aren't fooled by similar-seeming sites like
 paypaI.com.
 
-> Writing passwords down and keeping them in your wallet is not
-> necessarily a bad practice---it depends on who is doing it. For
-> example, an elderly person who finds tech confusing might well choose
-> simple, easy-to-guess passwords for their accounts if they have to be
-> remembered. On the other hand, they have a lifetime of practice
-> keeping track of bits of paper, and will probably notice if their
-> purse or wallet is stolen.
+<div class="callout" markdown="1">
+
+Writing passwords down and keeping them in your wallet is not
+necessarily a bad practice---it depends on who is doing it. For
+example, an elderly person who finds tech confusing might well choose
+simple, easy-to-guess passwords for their accounts if they have to be
+remembered. On the other hand, they have a lifetime of practice
+keeping track of bits of paper, and will probably notice if their
+purse or wallet is stolen.
+
+</div>
 
 ## Use Two-Factor Authentication
 
@@ -49,10 +53,14 @@ pretending to be from the IT department and ask them to read the code
 back to "verify" your account. As soon as you do this, the attacker can
 change your password and get into your account.
 
-> Many security experts now recommend using a physical 2FA key such as a
-> YubiKey, which fits on a keychain and plugs into a standard USB port.
-> Sites like [Tech Solidarity][tech-solidarity] have
-> easy-to-follow instructions explaining how to set them up for a range
-> of popular social networking sites.
+<div class="callout" markdown="1">
+
+Many security experts now recommend using a physical 2FA key such as a
+YubiKey, which fits on a keychain and plugs into a standard USB port.
+Sites like [Tech Solidarity][tech-solidarity] have
+easy-to-follow instructions explaining how to set them up for a range
+of popular social networking sites.
+
+</div>
 
 [tech-solidarity]: https://techsolidarity.org/

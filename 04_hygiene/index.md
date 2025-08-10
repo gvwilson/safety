@@ -32,12 +32,16 @@ in the URL: paypaI.com with an upper-case "I" instead of a lower-case
 "l" is not the site it pretends to be, and `wwwpaypal.com` is a
 different domain than `www.paypal.com`.
 
-> Many sites send an email with a random URL to confirm your identity
-> when you are resetting your password. On the one hand, this means that
-> an attacker has to get access to your email in order to break into
-> your account. On the other hand, random URLs are hard to type in, so
-> these emails encourage us to click on links in emails. If you are not
-> expecting a password reset email, *don't click on the link*.
+<div class="callout" markdown="1">
+
+Many sites send an email with a random URL to confirm your identity
+when you are resetting your password. On the one hand, this means that
+an attacker has to get access to your email in order to break into
+your account. On the other hand, random URLs are hard to type in, so
+these emails encourage us to click on links in emails. If you are not
+expecting a password reset email, *don't click on the link*.
+
+</div>
 
 While phishing attacks are wide-ranging,
 [spearphishing](g:spearphishing) describes the use of data harvested
@@ -102,7 +106,11 @@ take your devices and/or force you to unlock them are complicated and
 frequently overstepped, so you should assume that anything on or
 connected to the devices you are traveling with will be compromised.
 
-> *Never* plug a random USB drive into your device: it's like letting a
-> complete stranger into your home unsupervised.
+<div class="callout" markdown="1">
+
+*Never* plug a random USB drive into your device: it's like letting a
+complete stranger into your home unsupervised.
+
+</div>
 
 [proofpoint]: https://www.proofpoint.com/us/products/email-protection
