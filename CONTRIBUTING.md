@@ -69,17 +69,10 @@ Can I add a new section?
 Why is this material free to read?
 :   Because if we all give a little, we all get a lot.
 
-## <a id="contributors">Contributors</a>
-
--   [*Greg Wilson*][wilson-greg] is a programmer, author, and educator based in Toronto.
-    He was the co-founder and first Executive Director of Software Carpentry
-    and received ACM SIGSOFT's Influential Educator Award in 2020.
-
 [conventional]: https://www.conventionalcommits.org/
 [draw-io]: https://www.drawio.com/
 [email]: mailto:gvwilson@third-bit.com
 [jinja]: https://jinja.palletsprojects.com/
 [mccole]: https://pypi.org/project/mccole/
-[repo]: https://github.com/lessonomicon/safetynomicon
+[repo]: https://github.com/gvwilson/safety
 [uv]: https://github.com/astral-sh/uv
-[wilson-greg]: https://third-bit.com/
