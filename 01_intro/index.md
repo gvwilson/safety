@@ -88,7 +88,3 @@ through a network of servers, making traffic much harder to track. Both
 reduce risk, but neither eliminates it if your device is compromised, if
 the VPN is subpoenaed, or if you log in to accounts over Tor (thereby
 revealing your identity to those sites).
-
-## Acknowledgments {: #acknowledgments}
-
-FIXME
