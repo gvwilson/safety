@@ -3,6 +3,7 @@ Amro
 Belal
 BleachBit
 Branley
+callout
 Christophe
 Climategate
 css
@@ -29,6 +30,7 @@ Leitão
 MacOS
 Maturitas
 mccole
+middot
 Mohan
 Mohanad
 nn
@@ -39,7 +41,6 @@ Prettyman
 proofpoint
 Proofpoint
 Schneier
-Schneier's
 seatbelts
 Snowden
 spearphishing
