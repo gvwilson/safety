@@ -18,9 +18,9 @@ Suggestions and help are greatly appreciated.
 
 FIXME
 
-## Syllabus
+## Lessons
 
-<div id="syllabus" markdown="1">
+<div id="lessons" markdown="1">
 
 1.  [Introduction](./intro/)
 1.  [Threat Models](./threats/)
